@@ -1,1 +1,3 @@
 Another text file created on the remote GitHub.
+
+Im about to make a merge conflict!
